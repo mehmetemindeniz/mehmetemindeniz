@@ -1,5 +1,5 @@
-İnfo:
-- 👋 Hi, I’m @mehmetemindeniz
-- 👀 I’m interested in: Artificial Intelligence 
-- 🌱 I’m currently learning : C Programing, HTML, CSS, Java Sript
-- 📫 How to reach me: mehmetemindenizofficial@gmail.com
+Information:
+- 👋 Hello, I am Mehmet Emin Deniz
+- 👀 My interests: Web Development, C#, Cyber Security
+- 🌱 I'm currently learning : Java Script, C#, Penetration Testing
+- 📫 How to contact me: mehmetemindenizofficial@gmail.com
